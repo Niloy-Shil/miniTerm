@@ -8,3 +8,6 @@ it just Work like that
   <li> < add multible number > add a b </li>
   <li> < clear the screen >  clear </li>
 </ul>
+<p>
+  for multileine command you can use ',' . If you want to upgrade it or would like to customize it , you can fork it.
+</p>
