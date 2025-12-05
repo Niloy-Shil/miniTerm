@@ -107,7 +107,8 @@ double expVal(std::string expr)
 
 void expLine(std::string line)
 {
-
+while (!line.empty() && std::isspace(line.front()))
+			line.erase(line.begin());
 	if (line.rfind("print", 0) == 0) // working nice
 	{
 
