@@ -7,6 +7,7 @@ it just Work like that
   <li> < print a data > print a </li>
   <li> < add multible number > add a b </li>
   <li> < clear the screen >  clear </li>
+    <li>for sting name=[Jorasi]</li>
 </ul>
 <p>
   for multileine command you can use ',' . If you want to upgrade it or would like to customize it , you can fork it.
